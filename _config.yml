@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Jyväskylä, Finland"
-  employer         :
+  employer         : "University of Jyväskylä"
   pubmed           : 
-  googlescholar    : 
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.fi/citations?user=iaDb2iAAAAAJ&hl=en&oi=ao"
+  email            : "xiulin.wang@foxmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Wang_Xiulin"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,11 +99,11 @@ author:
   github           : "xiulinwang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "xiulin.w"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8884-097"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
