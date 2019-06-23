@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiulin Wang / HomePage"
+title                    : "Homepage|Xiulin Wang"
 title_separator          : "-"
 name                     : &name "Xiulin Wang"
 description              : &description "Personal Homepage"
