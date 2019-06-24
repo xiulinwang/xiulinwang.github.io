@@ -22,9 +22,10 @@ Research Interests
 
 News 
 ======
-- [2019.03] Our paper "[Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis]()" is accepted by [ISNN2019](https://conference.cs.cityu.edu.hk/isnn/).
-- [2019.02] Our paper "[Fast Implementation of Double-Coupled Nonnegative Canonical Polyadic Decomposition](https://ieeexplore.ieee.org/document/8682737)" is accepted by [ICASSP2019](https://2019.ieeeicassp.org/).
+- [2019.05] Our abstract paper "Fast Double-coupled Nonnegative Tensor Decomposition" is accepted by [SPARS2019](http://www.spars-workshop.org/en/index.html).
 - [2019.04] One-year COMAS funding for my doctoral study from University of Jyväskylä.
+- [2019.03] Our paper "Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis" is accepted by [ISNN2019](https://conference.cs.cityu.edu.hk/isnn/).
+- [2019.02] Our paper "Fast Implementation of Double-Coupled Nonnegative Canonical Polyadic Decomposition" is accepted by [ICASSP2019](https://2019.ieeeicassp.org/).
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
