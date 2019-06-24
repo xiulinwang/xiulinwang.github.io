@@ -27,9 +27,6 @@ News
 - [2019.03] Our paper "Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis" is accepted by [ISNN2019](https://conference.cs.cityu.edu.hk/isnn/).
 - [2019.02] Our paper "Fast Implementation of Double-Coupled Nonnegative Canonical Polyadic Decomposition" is accepted by [ICASSP2019](https://2019.ieeeicassp.org/).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-
