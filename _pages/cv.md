@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Curriculum Vitae](/files/CV_Wang_201903.pdf)"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
