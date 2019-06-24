@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Education](/files/CV_Wang_201903.pdf)
 ======
 * B.S. in GitHub, GitHub University, [2012](/files/CV_Wang_201903.pdf)
 * M.S. in Jekyll, GitHub University, 2014
