@@ -16,7 +16,7 @@ Research Interest
 2. Coupled/Linked/Joint tensor decomposition/factorization
 3. Tensor optimization with regularizations
 4. Blind Source Separation/Joint Blind Source Separation
-5. Applications including biomedical signal processing, machine/deep learning, data mining etc.
+5. Applications including biomedical signal processing, machine/deep learning etc.
 
 Getting started
 ======
