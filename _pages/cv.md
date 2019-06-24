@@ -22,7 +22,7 @@ Personal Information
 Education
 ------
 * **University of Jyväskylä, Faculty of Information Technology**<br>PhD candidate in Mathematical Information Technology (2017~current)<br>Supervisors: [Tapani Ristaniemi]((http://users.jyu.fi/~riesta/)) and [Fengyu Cong]((http://www.escience.cn/people/cong/index.html))
-* **Dalian University of Technology, School of Biomedical Engineering**<br>PhD candidate in Biomedical Engineering (2016~2017)<br>Supervisor: Fengyu Cong
+* **Dalian University of Technology, School of Biomedical Engineering**<br>PhD candidate in Biomedical Engineering (2016~current)<br>Supervisor: Fengyu Cong
 * **Dalian University of Technology, School of Information and Communication Engineering**<br>M.E. in Signal and Information Processing (2015)<br>Supervisor: [Xiaofeng Gong]((http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm))
 * **Shandong Unversity,Weihai, School of Electrical and Information Engineering**<br>B.E. in Communication Engineering (2012) 
 
