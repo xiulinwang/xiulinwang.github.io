@@ -21,8 +21,10 @@ Research Interests
 - Applications including biomedical signal processing, machine/deep learning etc.
 
 News 
-#======
-a
+======
+- [2019.03] Our paper "[Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis]()" is accepted by [ISNN2019](https://conference.cs.cityu.edu.hk/isnn/).
+- [2019.02] Our paper "[Fast Implementation of Double-Coupled Nonnegative Canonical Polyadic Decomposition](https://ieeexplore.ieee.org/document/8682737)" is accepted by [ICASSP2019](https://2019.ieeeicassp.org/).
+- [2019.04] One-year COMAS funding for my doctoral study from University of Jyväskylä.
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
