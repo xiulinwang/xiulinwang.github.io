@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a joint-training PhD candidate in [SPWC](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) Lab of [University of Jyväskylä](https://jyu.fi/en) supervised by Prof. [Tapani Ristaniemi](http://users.jyu.fi/~riesta/), and in [ASAP](http://www.escience.cn/people/cong/asap.html) Lab of [Dalian University of Technology](http://en.dlut.edu.cn/) supervised by Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html). I also obtained my master degree from [Dalian University of Technology](http://en.dlut.edu.cn/), and supervised by Associate Prof. [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm). 
+Currently I am a joint-training PhD candidate in [SPWC](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) Lab of [University of Jyväskylä](https://jyu.fi/en) supervised by Prof. [Tapani Ristaniemi](http://users.jyu.fi/~riesta/), and in [ASAP](http://www.escience.cn/people/cong/asap.html) Lab of [Dalian University of Technology](http://en.dlut.edu.cn/) supervised by Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html). I obtained my master degree from Dalian University of Technology, and supervised by Associate Prof. [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm). 
 
 A data-driven personal website
 ======
