@@ -27,4 +27,4 @@ Education
 
 For more info
 ------
--you can find them in the CV file.
+- you can find them in the CV file.
