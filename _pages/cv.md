@@ -14,8 +14,8 @@ redirect_from:
 
 Personal Information
 ------
-- D521.3, Building Agora, Faculty of Information Technology University of Jyväskylä, FI-40014, Finalnd
-- Email: xiulin dot wang at foxmail dot com & xiulin dot x dot wang at jyu dot fi
+- D521.3, Building Agora, Faculty of Information Technology, University of Jyväskylä, FI-40014, Finalnd
+- Email: xiulin.wang@foxmail.com | xiulin.x.wang@jyu.fi
 - [http://xiulin.wang/](http://xiulin.wang/)
 
 Education
