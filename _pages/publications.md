@@ -13,7 +13,7 @@ Journal
 Conference
 ------
 - Fast Double-coupled Nonnegative Tensor Decomposition<br>**xiulin Wang**, Tapani Ristaniemi, Fengyu Cong<br>Signal Processing with Adaptive Sparse Structured Representations (SPARS) workshop, 2019. Accepted as poster.<br>[[paper](Wang_et_al_SPARS2019.pdf)]
-- Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis<br>**Xiulin Wang**, Chi Zhang, Tapani Ristaniemi, Fengyu Cong<br>International Symposium on Neural Networks (ISNN), 2019. [[paper](Wang_et_al_SPARS2019.pdf)] 
+- Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis<br>**Xiulin Wang**, Chi Zhang, Tapani Ristaniemi, Fengyu Cong<br>International Symposium on Neural Networks (ISNN), 2019. [[paper](Wang_et_al_ISNN2019.pdf)] 
 - Fast Implementation of Double-coupled Nonnegative Canonical Polyadic Decomposition<br>**xiulin Wang**, Tapani Ristaniemi, Fengyu Cong<br>International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. Accepted as poster.<br>doi:  [10.1109/ICASSP.2019.8682737](https://doi.org/10.1109/ICASSP.2019.8682737)
 - A Study on Parallelization of Successive Rotation Based Joint Diagonalization<br>**Xiulin Wang**, Xiaofeng Gong, Qiuhua Lin<br>International Conference on Digital Signal Processing (DSP), 2014. Accepted as presentation.<br>doi: [10.1109/ICDSP.2014.6900778](https://doi.org/10.1109/ICDSP.2014.6900778)
 
