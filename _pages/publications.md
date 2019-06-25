@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
-
 Journal
 ------
 - Group Analysis of Ongoing EEG Data Based on Fast Double-Coupled Nonnegative Tensor Decomposition<br>**Xiulin Wang**, Wenya Liu, Tapani Ristaniemi and Fengyu Cong. submitted, 2019
