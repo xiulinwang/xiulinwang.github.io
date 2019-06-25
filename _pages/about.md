@@ -29,4 +29,4 @@ News
 
 For more info
 ------
-Last updated on Mar.2019 by L.
+Last updated on June 2019 by L.
