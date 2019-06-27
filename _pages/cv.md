@@ -14,7 +14,7 @@ redirect_from:
 
 Personal Information
 ------
-- Mattilanniemi 2, 40100 Jyväskylä, Faculty of Information Technology, University of Jyväskylä, Finalnd. [find me in google](https://goo.gl/maps/rXFqdB3Jm7L1rycSA)
+- Mattilanniemi 2, 40100 Jyväskylä, Finalnd. [find me in google](https://goo.gl/maps/rXFqdB3Jm7L1rycSA)
 - Phone: +358 465372761
 - Email: xiulin.wang@foxmail.com or xiulin.x.wang@jyu.fi
 - [http://xiulin.wang/](http://xiulin.wang/) or [https://xiulinwang.github.io](https://xiulinwang.github.io)
