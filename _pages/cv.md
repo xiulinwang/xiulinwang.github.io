@@ -14,7 +14,7 @@ redirect_from:
 
 Personal Information
 ------
-- D521.3, Building Agora, Faculty of Information Technology, University of Jyväskylä, FI-40014, Finalnd
+- Mattilanniemi 2, 40100 Jyväskylä, Faculty of Information Technology, University of Jyväskylä, Finalnd. [find me in google](https://goo.gl/maps/rXFqdB3Jm7L1rycSA)
 - Phone: +358 465372761
 - Email: xiulin.wang@foxmail.com or xiulin.x.wang@jyu.fi
 - [http://xiulin.wang/](http://xiulin.wang/) or [https://xiulinwang.github.io](https://xiulinwang.github.io)
