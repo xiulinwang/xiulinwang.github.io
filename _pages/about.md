@@ -30,4 +30,4 @@ Double-coupled Nonnegative Tensor Decomposition" is accepted by [Journal of Neur
 
 For more info
 ------
-Last updated in June 2019 by L.
+Last updated in Nov. 2019 by L.
