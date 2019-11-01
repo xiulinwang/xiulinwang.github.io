@@ -7,7 +7,7 @@ author_profile: true
 
 Journal
 ------
-- Group Analysis of Ongoing EEG Data Based on Fast Double-Coupled Nonnegative Tensor Decomposition<br>**Xiulin Wang**, Wenya Liu, Tapani Ristaniemi and Fengyu Cong. submitted, 2019
+- Group Analysis of Ongoing EEG Data Based on Fast Double-Coupled Nonnegative Tensor Decomposition<br>**Xiulin Wang**, Wenya Liu, Tapani Ristaniemi and Fengyu Cong. Journal of Neuroscience Methods, accepted, 2019
 - Generalized Non-orthogonal Joint Diagonalization with LU Decomposition and Successive Rotations<br>Xiaofeng Gong, **Xiulin Wang**, Qiuhua Lin. IEEE Transactions on Signal Processing, 2015.<br>doi: [10.1109/TSP.2015.2391074](https://doi.org/10.1109/TSP.2015.2391074)
 
 Conference
