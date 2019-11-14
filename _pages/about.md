@@ -22,7 +22,7 @@ Research Interests
 News 
 ======
 - [2019.11] Our journal paper "Group Analysis of Ongoing EEG Data Based on Fast
-Double-coupled Nonnegative Tensor Decomposition" is accepted by [Journal of Neuroscience Methods](-).
+Double-coupled Nonnegative Tensor Decomposition" is accepted by [Journal of Neuroscience Methods](https://www.sciencedirect.com/science/article/pii/S0165027019303590)(IF: 2.785).
 - [2019.05] Our abstract paper "Fast Double-coupled Nonnegative Tensor Decomposition" is accepted by [SPARS2019](http://www.spars-workshop.org/en/index.html).
 - [2019.04] One-year COMAS funding for my doctoral study from University of Jyväskylä.
 - [2019.03] Our paper "Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis" is accepted by [ISNN2019](https://conference.cs.cityu.edu.hk/isnn/).
