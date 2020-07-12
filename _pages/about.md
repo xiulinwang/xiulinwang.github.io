@@ -21,6 +21,7 @@ Research Interests
 
 News 
 ======
+- [2020.06] Our paper "Group Nonnegative Matrix Factorization with Sparse Regularization in Multi-set Data" is accepted by [EUSIPCO2020](https://eusipco2020.org/).
 - [2019.11] Our journal paper "Group Analysis of Ongoing EEG Data Based on Fast
 Double-coupled Nonnegative Tensor Decomposition" is accepted by [Journal of Neuroscience Methods](https://www.sciencedirect.com/science/article/pii/S0165027019303590) (IF: 2.785).
 - [2019.05] Our abstract paper "Fast Double-coupled Nonnegative Tensor Decomposition" is accepted by [SPARS2019](http://www.spars-workshop.org/en/index.html).
