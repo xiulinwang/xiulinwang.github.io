@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](/files/CV_Wang_201910.pdf)
+[Curriculum Vitae](/files/CV_Wang_202007.pdf)
 ------
 
 Personal Information
