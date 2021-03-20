@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - I am currently a postdoctoral researcher at the Affiliated Zhongshan Hospital in Dalian University and Dalian University of Technology, working with [Jianlin Wu](https://www.dlhospital.com/home/expert_display/284) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My research concentrates on the development of coupled matrix/tensor factorization and its applications in the joint analysis of multi-set medical data, such as CT or MRI.
-- I earned the Ph.D. degree (Software and Communications Engineering) at the Faculty of Information Technology, [University of Jyväskylä](https://jyu.fi/en), Finland in 2020, supervised by [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My thesis
+- I earned the Ph.D. degree (software and communications engineering) at the Faculty of Information Technology, [University of Jyväskylä](https://jyu.fi/en), Finland in 2020, supervised by [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My thesis
 was concerned with the coupled nonnegative matrix/tensor factorization in brain imaging data. I have also been a joint-training doctoral student in [University of Jyväskylä](https://jyu.fi/en) and [Dalian University of Technology](http://en.dlut.edu.cn/) since 2016. 
 - I received my master's degree (signal and information processing) from [Dalian University of Technology](http://en.dlut.edu.cn/) in 2015, supervised by  [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm). I obtained my bachelor's degree (telecommunication engineering) from [Shandong University, Weihai](https://www.wh.sdu.edu.cn/) in 2012.
 
