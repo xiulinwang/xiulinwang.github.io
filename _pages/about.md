@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- I am a joint-training PhD student at [University of Jyväskylä](https://jyu.fi/en) and [Dalian University of Technology](http://en.dlut.edu.cn/), working with Prof. [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html). I am a member of [SPWC lab](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
-- I received my master's degree from Associate Prof. [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm) at [Dalian University of Technology](http://en.dlut.edu.cn/). I obtained my bachelor's degree from [Shandong University, Weihai](https://www.wh.sdu.edu.cn/), advised by Associate Prof. [Sumei Li](https://ie.wh.sdu.edu.cn/info/1073/1253.htm).
+- I am currently a postdoctoral researcher in Affiliated Zhongshan Hospital in Dalian University and Dalian University of Technology, working with [Jianlin Wu](https://www.dlhospital.com/home/expert_display/284) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My research concentrates on the development of coupled matrix/tensor factorization and its applications on the joint analysis of multi-set medical data, such as CT or MRI.
+- I obtained the Ph.D. degree (Software and Communications Engineering) at the Faculty of Information Technology, [University of Jyväskylä](https://jyu.fi/en), Finland in 2020, supervised by [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My thesis
+concerned about coupled nonnegative matrix-tensor factorization in brain imaging data. I was also the joint-training doctoral student in [University of Jyväskylä](https://jyu.fi/en) and [Dalian University of Technology](http://en.dlut.edu.cn/) since 2016. 
+- I received my master's degree (signal and information processing) from [Dalian University of Technology](http://en.dlut.edu.cn/) in 2015, supervised  by  [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm). I obtained my bachelor's degree (telecommunication engineering) from [Shandong University, Weihai](https://www.wh.sdu.edu.cn/) in 2012.
 
 Research Interests
 ======
