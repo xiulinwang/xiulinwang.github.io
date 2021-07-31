@@ -23,7 +23,7 @@ Research Interests
 
 News 
 ======
-- [2021.06] Our Oaoer "One Dimensional Convolutional Neural Networks for Seizure Onset Detection Using Long-term Scalp and Intracranial EEG" is accepted by [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231221009723)
+- [2021.06] Our Paper "One Dimensional Convolutional Neural Networks for Seizure Onset Detection Using Long-term Scalp and Intracranial EEG" is accepted by [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231221009723)
 - [2020.12] I have successfully defended and completed my doctoral study at [University of Jyväskylä](https://www.jyu.fi/en/current/archive/2020/11/2-12-2020-m-eng-xiulin-wang-faculty-of-information-technology-software-and-communications-engineering-online-event).
 - [2020.08] Our Paper "Identifying Task-based Dynamic Functional Connectivity Using Tensor Decomposition" is accepted by [ICONIP'20](https://www.apnns.org/ICONIP2020/)
 - [2020.06] Our paper "Group Nonnegative Matrix Factorization with Sparse Regularization in Multi-set Data" is accepted by [EUSIPCO2020](https://eusipco2020.org/).
