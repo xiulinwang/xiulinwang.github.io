@@ -23,6 +23,7 @@ Research Interests
 
 News 
 ======
+- [2021.11] Our paper "Shared and Unshared Feature Extraction in Major Depression during Music Listening using Constrained Tensor Factorization" is accepted by [Frontiers in Human Neuroscience](https://www.frontiersin.org/articles/10.3389/fnhum.2021.799288/abstract)（IF: 3.169）
 - [2021.09] Our paper "Identifying Oscillatory Hyperconnectivity and Hypoconnectivity Networks in Major Depression Using Coupled Tensor Decomposition" is accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/document/9531642) (IF: 3.802)
 - [2021.06] Our paper "One Dimensional Convolutional Neural Networks for Seizure Onset Detection Using Long-term Scalp and Intracranial EEG" is accepted by [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231221009723)（IF：5.719）
 - [2020.12] I have successfully defended and completed my doctoral study at [University of Jyväskylä](https://www.jyu.fi/en/current/archive/2020/11/2-12-2020-m-eng-xiulin-wang-faculty-of-information-technology-software-and-communications-engineering-online-event).
