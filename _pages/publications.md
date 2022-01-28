@@ -7,15 +7,18 @@ author_profile: true
 
 Journal
 ------
-- Group Analysis of Ongoing EEG Data Based on Fast Double-Coupled Nonnegative Tensor Decomposition<br>**Xiulin Wang**, Wenya Liu, Tapani Ristaniemi and Fengyu Cong. Journal of Neuroscience Methods, 2019. IF: 2.785<br>doi: [10.1016/j.jneumeth.2019.108502](https://doi.org/10.1016/j.jneumeth.2019.108502)
-- Generalized Non-orthogonal Joint Diagonalization with LU Decomposition and Successive Rotations<br>Xiaofeng Gong, **Xiulin Wang**, Qiuhua Lin. IEEE Transactions on Signal Processing, 2015. IF: 5.23<br>doi: [10.1109/TSP.2015.2391074](https://doi.org/10.1109/TSP.2015.2391074)
+- Xiaoshuang Wang, **Xiulin Wang**, Wenya Liu et al. One dimensional convolutional neural networks for seizure onset detection using long-term scalp and intracranial EEG. Neurocomputing 459 (2021): 212-222. IF: 5.719<br>doi: [10.1016/j.neucom.2021.06.048](https://doi.org/10.1016/j.neucom.2021.06.048)
+- **Xiulin Wang**, Wenya Liu, Tapani Ristaniemi and Fengyu Cong. Group analysis of ongoing EEG data based on fast double-coupled nonnegative tensor decomposition<br> Journal of neuroscience methods 330 (2020): 108502. IF: 2.785<br>doi: [10.1016/j.jneumeth.2019.108502](https://doi.org/10.1016/j.jneumeth.2019.108502)
+- Xiaofeng Gong, **Xiulin Wang**, and Qiuhua Lin. Generalized non-orthogonal joint diagonalization with LU decomposition and successive rotations<br> IEEE Transactions on Signal Processing 63, no. 5 (2015): 1322-1334. IF: 5.23<br>doi: [10.1109/TSP.2015.2391074](https://doi.org/10.1109/TSP.2015.2391074)
 
 Conference
 ------
-- Identifying Task-Based Dynamic Functional Connectivity Using Tensor Decomposition." In International Conference on Neural Information Processing, pp. 361-369. Springer, Cham, 2020.
-- Fast Double-coupled Nonnegative Tensor Decomposition<br>**xiulin Wang**, Tapani Ristaniemi, Fengyu Cong<br>Signal Processing with Adaptive Sparse Structured Representations (SPARS) workshop, 2019. Accepted as poster.<br>[[paper](../_publications/Wang_et_al_SPARS2019.pdf)]
-- Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis<br>**Xiulin Wang**, Chi Zhang, Tapani Ristaniemi, Fengyu Cong<br>International Symposium on Neural Networks (ISNN), 2019.<br>doi: [10.1007/978-3-030-22808-8_19](https://doi.org/10.1007/978-3-030-22808-8_19)
-- Fast Implementation of Double-coupled Nonnegative Canonical Polyadic Decomposition<br>**xiulin Wang**, Tapani Ristaniemi, Fengyu Cong<br>International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. Accepted as poster.<br>doi: [10.1109/ICASSP.2019.8682737](https://doi.org/10.1109/ICASSP.2019.8682737)
+- Wenya Liu, **Xiulin Wang**, Fengyu Cong, and Timo Hämäläinen. Alpha Band Dysconnectivity Networks in Major Depression during Resting State<br> 29th European Signal Processing Conference (EUSIPCO), 2021.<br>doi: [10.23919/EUSIPCO54536.2021.9615964](https://doi.org/10.23919/EUSIPCO54536.2021.9615964)
+- **Xiulin Wang**, Wenya Liu, Fengyu Cong, and Tapani Ristaniemi. Group Nonnegative Matrix Factorization with Sparse Regularization in Multi-set Data<br> 28th European Signal Processing Conference (EUSIPCO), 2021. Accepted as poster. <br>doi: [10.23919/Eusipco47968.2020.9287756](https://doi.org/10.23919/Eusipco47968.2020.9287756)
+- Wenya Liu, **Xiulin Wang**, Tapani Ristaniemi, and Fengyu Cong.Identifying Task-Based Dynamic Functional Connectivity Using Tensor Decomposition<br> International Conference on Neural Information Processing(ICNIP), 2020. <br>doi: [10.1007/978-3-030-63823-8_42](https://doi.org/10.1007/978-3-030-63823-8_42)
+- **xiulin Wang**, Tapani Ristaniemi, Fengyu Cong. Fast Double-coupled Nonnegative Tensor Decomposition<br>Signal Processing with Adaptive Sparse Structured Representations (SPARS) workshop, 2019. Accepted as poster.<br>[[paper](../_publications/Wang_et_al_SPARS2019.pdf)]
+- **Xiulin Wang**, Chi Zhang, Tapani Ristaniemi, Fengyu Cong. Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis<br>International Symposium on Neural Networks (ISNN), 2019.<br>doi: [10.1007/978-3-030-22808-8_19](https://doi.org/10.1007/978-3-030-22808-8_19)
+- **xiulin Wang**, Tapani Ristaniemi, Fengyu Cong. Fast Implementation of Double-coupled Nonnegative Canonical Polyadic Decomposition<br>International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. Accepted as poster.<br>doi: [10.1109/ICASSP.2019.8682737](https://doi.org/10.1109/ICASSP.2019.8682737)
 - **Xiulin Wang**, Xiaofeng Gong, Qiuhua Lin. A Study on Parallelization of Successive Rotation Based Joint Diagonalization<br>International Conference on Digital Signal Processing (DSP), 2014. Accepted as presentation.<br>doi: [10.1109/ICDSP.2014.6900778](https://doi.org/10.1109/ICDSP.2014.6900778)
 
 Matlab Toolbox
