@@ -7,7 +7,7 @@ author_profile: true
 
 Journal
 ------
-- **Xiulin Wang**, Wenya Liu, Jing Xu et al. Shared and Unshared Feature Extraction in Major Depression During Music Listening Using Constrained Tensor Factorization. *Frontiers in Human Neuroscience* (2021): 759. doi: [10.3389/fnhum.2021.799288](https://doi.org/10.3389/fnhum.2021.799288)
+- **Xiulin Wang**, Wenya Liu, Jing Xu et al. Shared and Unshared Feature Extraction in Major Depression During Music Listening Using Constrained Tensor Factorization. *Frontiers in Human Neuroscience* (2021): 759. [[link]](https://doi.org/10.3389/fnhum.2021.799288)
 - Wenya Liu, **Xinlin Wang**, Jing Xu et al.Identifying Oscillatory Hyperconnectivity and Hypoconnectivity Networks in Major Depression Using Coupled Tensor Decomposition. *IEEE Transactions on Neural Systems and Rehabilitation Engineering* 29(2021), 1895–1904. doi: [10.1109/TNSRE.2021.3111564](https://doi.org/10.1109/TNSRE.2021.3111564)
 - Xiaoshuang Wang, **Xiulin Wang**, Wenya Liu et al. One dimensional convolutional neural networks for seizure onset detection using long-term scalp and intracranial EEG. *Neurocomputing* 459 (2021): 212-222. doi: [10.1016/j.neucom.2021.06.048](https://doi.org/10.1016/j.neucom.2021.06.048)
 - **Xiulin Wang**, Wenya Liu, Tapani Ristaniemi and Fengyu Cong. Group analysis of ongoing EEG data based on fast double-coupled nonnegative tensor decomposition. *Journal of neuroscience methods* 330 (2020): 108502. doi: [10.1016/j.jneumeth.2019.108502](https://doi.org/10.1016/j.jneumeth.2019.108502)
