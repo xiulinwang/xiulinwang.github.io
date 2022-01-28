@@ -27,6 +27,7 @@ News
 - [2021.09] I joined Acar Evrim's team in the Simula Research Laboratory as an external postdoctoral fellow. [[link]](https://www.simula.no/user/234290)
 - [2021.09] Our paper "Identifying Oscillatory Hyperconnectivity and Hypoconnectivity Networks in Major Depression Using Coupled Tensor Decomposition" is accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/document/9531642) (IF: 3.802)
 - [2021.06] Our paper "One Dimensional Convolutional Neural Networks for Seizure Onset Detection Using Long-term Scalp and Intracranial EEG" is accepted by [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231221009723)（IF：5.719）
+- [2021.03] I joined Jianlin Wu's team at Affiliated Zhongshan Hospital in Dalian University as a postdoctoral fellow.
 - [2020.12] I have successfully defended and completed my doctoral study at [University of Jyväskylä](https://www.jyu.fi/en/current/archive/2020/11/2-12-2020-m-eng-xiulin-wang-faculty-of-information-technology-software-and-communications-engineering-online-event).
 - [2020.08] Our paper "Identifying Task-based Dynamic Functional Connectivity Using Tensor Decomposition" is accepted by [ICONIP'20](https://www.apnns.org/ICONIP2020/)
 - [2020.06] Our paper "Group Nonnegative Matrix Factorization with Sparse Regularization in Multi-set Data" is accepted by [EUSIPCO2020](https://eusipco2020.org/).
