@@ -19,7 +19,7 @@ Research Interests
 - Coupled/Linked/Joint tensor decomposition/factorization
 - Tensor optimization with regularizations
 - Blind Source Separation/Joint Blind Source Separation
-- Applications including biomedical signal processing, machine/deep learning etc.
+- Applications in biomedical signal processing (EEG/fMRI), Cognitive Neuroscience, Applied and Computational Neuroscience, machine/deep learning etc.
 
 News 
 ======
