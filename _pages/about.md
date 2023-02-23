@@ -23,7 +23,9 @@ Research Interests
 
 News 
 ======
-- [2023.02] Our paper "PARAFAC2-based Coupled Matrix and Tensor Factorizations" is accepted by ICASSP2023.
+- [2023.02] Our paper "PARAFAC2-based Coupled Matrix and Tensor Factorizations" is accepted by [ICASSP2023]().
+- [2022.06] Our paper "A Novel Combined Nomogram Model for Predicting the Pathological Complete Response to Neoadjuvant Chemotherapy in Invasive Breast Carcinoma of No Specific Type: Real-World Study" ia accepted by [Frontiers in Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9207207/)(IF: 5.738)
+- [2022.02] Our paper "Exploring Oscillatory Dysconnectivity Networks in Major Depression during Resting State Using Coupled Tensor Decomposition" is accepted by [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/abstract/document/9716736/)(IF: 4.756).
 - [2021.11] Our paper "Shared and Unshared Feature Extraction in Major Depression during Music Listening using Constrained Tensor Factorization" is accepted by [Frontiers in Human Neuroscience](https://www.frontiersin.org/articles/10.3389/fnhum.2021.799288/abstract)（IF: 3.169）
 - [2021.09] I joined Acar Evrim's team in the Simula Research Laboratory as an external postdoctoral fellow. [[link]](https://www.simula.no/user/234290)
 - [2021.09] Our paper "Identifying Oscillatory Hyperconnectivity and Hypoconnectivity Networks in Major Depression Using Coupled Tensor Decomposition" is accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/document/9531642) (IF: 3.802)
