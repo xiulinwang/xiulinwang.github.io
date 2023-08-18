@@ -21,7 +21,7 @@ Research Interests
 
 News 
 ======
-- [2021.09] I joined the First Affiliated Hospital of Dalian Medical University as an assistant researcher. 
+- [2023.05] I joined the First Affiliated Hospital of Dalian Medical University as an assistant researcher. 
 - [2023.02] Our paper "PARAFAC2-based Coupled Matrix and Tensor Factorizations" is accepted by [ICASSP2023](https://arxiv.org/pdf/2210.13054.pdf).
 - [2022.06] Our paper "A Novel Combined Nomogram Model for Predicting the Pathological Complete Response to Neoadjuvant Chemotherapy in Invasive Breast Carcinoma of No Specific Type: Real-World Study" ia accepted by [Frontiers in Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9207207/) (IF: 5.738)
 - [2022.02] Our paper "Exploring Oscillatory Dysconnectivity Networks in Major Depression during Resting State Using Coupled Tensor Decomposition" is accepted by [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/abstract/document/9716736/) (IF: 4.756).
@@ -42,4 +42,4 @@ Double-coupled Nonnegative Tensor Decomposition" is accepted by [Journal of Neur
 
 For more info
 ------
-Last updated in Feb. 2023 by L.
+Last updated in Aug. 2023 by L.
