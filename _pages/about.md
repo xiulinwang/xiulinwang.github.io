@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a postdoctoral researcher at the Affiliated Zhongshan Hospital in Dalian University and Dalian University of Technology, working with [Jianlin Wu](https://www.dlhospital.com/home/expert_display/284) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My research concentrates on the development of coupled matrix/tensor factorization and its applications in the joint analysis of multi-set medical data, such as CT or MRI.
-- I earned the Ph.D. degree (software and communications engineering) at the Faculty of Information Technology, [University of Jyväskylä](https://jyu.fi/en), Finland in 2020, supervised by [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My thesis
-was concerned with the coupled nonnegative matrix/tensor factorization in brain imaging data. I have also been a joint-training doctoral student in [University of Jyväskylä](https://jyu.fi/en) and [Dalian University of Technology](http://en.dlut.edu.cn/) since 2016. 
-- I received my master's degree (signal and information processing) from [Dalian University of Technology](http://en.dlut.edu.cn/) in 2015, supervised by  [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm). I obtained my bachelor's degree (telecommunication engineering) from [Shandong University, Weihai](https://www.wh.sdu.edu.cn/) in 2012.
+- I am now an assistant researcher at the First Affiliated Hospital of Dalian Medical University. 
+-  From 2017 to 2020, I was a Ph.D. student (software and communications engineering) at the Faculty of Information Technology, [University of Jyväskylä](https://jyu.fi/en), Finland, supervised by [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html). My thesis was concerned with "coupled nonnegative matrix/tensor factorization in brain imaging data". I was a joint-training Ph.D. student at [University of Jyväskylä](https://jyu.fi/en) and [Dalian University of Technology](http://en.dlut.edu.cn/) from 2016 to 2017.
 
 Research Interests
 ======
@@ -23,6 +21,7 @@ Research Interests
 
 News 
 ======
+- [2021.09] I joined the First Affiliated Hospital of Dalian Medical University as an assistant researcher. 
 - [2023.02] Our paper "PARAFAC2-based Coupled Matrix and Tensor Factorizations" is accepted by [ICASSP2023](https://arxiv.org/pdf/2210.13054.pdf).
 - [2022.06] Our paper "A Novel Combined Nomogram Model for Predicting the Pathological Complete Response to Neoadjuvant Chemotherapy in Invasive Breast Carcinoma of No Specific Type: Real-World Study" ia accepted by [Frontiers in Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9207207/) (IF: 5.738)
 - [2022.02] Our paper "Exploring Oscillatory Dysconnectivity Networks in Major Depression during Resting State Using Coupled Tensor Decomposition" is accepted by [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/abstract/document/9716736/) (IF: 4.756).
