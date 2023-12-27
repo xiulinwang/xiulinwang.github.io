@@ -26,7 +26,9 @@ Education
 * **Dalian University of Technology, School of Information and Communication Engineering**<br>M.E. in Signal and Information Processing (2015)<br>Supervisor: [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm)
 * **Shandong Unversity,Weihai, School of Electrical and Information Engineering**<br>B.E. in Communication Engineering (2012)
 
+
+<a href="https://info.flagcounter.com/cvY1"><img src="https://s11.flagcounter.com/count2/cvY1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 For more info
 ------
-<a href="https://info.flagcounter.com/cvY1"><img src="https://s11.flagcounter.com/count2/cvY1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 - you can find them in the CV file.
