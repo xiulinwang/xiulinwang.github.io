@@ -21,7 +21,12 @@ Research Interests
 
 News 
 ======
-- [2023.05] I joined the First Affiliated Hospital of Dalian Medical University as an assistant researcher. 
+- [2025.06] Our paper "PARAFAC2-based Coupled Matrix and Tensor Factorizations with Constraints" is accepted by [IEEE Journal of Selected Topics in Signal Processing](https://ieeexplore.ieee.org/document/11034720) (IF: 8.7)
+- [2025.05] Our paper "FCNCP: A Coupled Nonnegative CANDECOMP/PARAFAC Decomposition Based on Federated Learning" is accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/document/11008701) (IF: 6.7)
+- [2025.02] Our Paper "Identifying invasiveness to aid lung adenocarcinoma diagnosis using deep learning and pathomics" is accepted by [Scientific Reports](https://www.nature.com/articles/s41598-025-87094-5) (IF: 3.8)
+- [2024.05] Our paper "Thalamic segmentation based on diffusion tensor imaging in patients with trigeminal neuralgia" is accepted by [Brain Research](https://www.sciencedirect.com/science/article/abs/pii/S0006899324000866) (IF: 2.7)
+- [2023.05] I joined the First Affiliated Hospital of Dalian Medical University as an assistant researcher.
+- [2023.04] Our Paper "An efficient memory reserving-and-fading strategy for vector quantization based 3D brain segmentation and tumor extraction using an unsupervised deep learning network" is accepted by [Cognitive Neurodynamics](https://link.springer.com/article/10.1007/s11571-023-09965-9) (IF: 3.1)
 - [2023.02] Our paper "PARAFAC2-based Coupled Matrix and Tensor Factorizations" is accepted by [ICASSP2023](https://arxiv.org/pdf/2210.13054.pdf).
 - [2022.06] Our paper "A Novel Combined Nomogram Model for Predicting the Pathological Complete Response to Neoadjuvant Chemotherapy in Invasive Breast Carcinoma of No Specific Type: Real-World Study" ia accepted by [Frontiers in Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9207207/) (IF: 5.738)
 - [2022.02] Our paper "Exploring Oscillatory Dysconnectivity Networks in Major Depression during Resting State Using Coupled Tensor Decomposition" is accepted by [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/abstract/document/9716736/) (IF: 4.756).
