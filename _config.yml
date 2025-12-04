@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiulin Wang|王秀林"
-  avatar           : "wangxiulin_profile.jpg"
+  avatar           : #"wangxiulin_profile.jpg"
   bio              : "xiulin.wang@foxmail.com"
   location         : "Dalian, China"
   employer         : #"Dalian, China"
