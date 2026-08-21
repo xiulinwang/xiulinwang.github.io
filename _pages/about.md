@@ -21,6 +21,10 @@ Research Interests
 
 News 
 ======
+- [2026.04] Our paper "Amyloid pathology drives cognitive decline in Alzheimer’s Disease through impairing neurovascular coupling: An [¹⁸F]-Florbetapir PET/MRI Study" is accepted by [Brain Research Bulletin](https://www.sciencedirect.com/science/article/pii/S0361923026001498) (IF: 4.5)
+- [2026.03] Our paper "A novel multimodal AI-based radiomics approach for precision assessment of pain intensity in chronic nonspecific low back pain" is accepted by [Journal of Orthopaedic Translation](https://www.sciencedirect.com/science/article/pii/S2214031X26000173) (IF: 9.8)
+- [2026.02] Our paper "Dynamics of Hidden Brain States in Subcortical Vascular Cognitive Impairment: Linking Neural Activity to Neurotransmitter Systems and Genetic Pathways" is accepted by [Brain Research Bulletin](https://www.sciencedirect.com/science/article/pii/S0361923026000730) (IF: 4.5)
+- [2025.12] Our paper "Integrating CT-based radiomics and deep learning for invasive prediction of ground-glass nodules in lung adenocarcinoma: a multicohort study" is accepted by [Insights into Imaging](https://link.springer.com/article/10.1186/s13244-025-02156-6) (IF: 5.6)
 - [2025.06] Our paper "PARAFAC2-based Coupled Matrix and Tensor Factorizations with Constraints" is accepted by [IEEE Journal of Selected Topics in Signal Processing](https://ieeexplore.ieee.org/document/11034720) (IF: 8.7)
 - [2025.05] Our paper "FCNCP: A Coupled Nonnegative CANDECOMP/PARAFAC Decomposition Based on Federated Learning" is accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/document/11008701) (IF: 6.7)
 - [2025.02] Our Paper "Identifying invasiveness to aid lung adenocarcinoma diagnosis using deep learning and pathomics" is accepted by [Scientific Reports](https://www.nature.com/articles/s41598-025-87094-5) (IF: 3.8)
